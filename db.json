@@ -1,14 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "Construct a REST API request to accomplish a task given API documentation": "Post 1" },
+    { "id": 2, "Describe common usage patterns related to webhooks": "Post 2" },
+    { "id": 3, "Identify the constraints when consuming APIs": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "fullstacknetworker"
   }
 }
